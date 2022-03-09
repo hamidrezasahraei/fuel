@@ -134,7 +134,7 @@ object Forge {
 }
 
 object Gson {
-    const val version = "2.8.6"
+    const val version = "2.9.0"
     const val dependency = "com.google.code.gson:gson:$version"
 }
 
